@@ -1,0 +1,15 @@
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\bin\Debug\net7.0\ex_2.exe
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\bin\Debug\net7.0\ex_2.deps.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\bin\Debug\net7.0\ex_2.runtimeconfig.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\bin\Debug\net7.0\ex_2.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\bin\Debug\net7.0\ex_2.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.csproj.AssemblyReference.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfoInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfo.cs
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.csproj.CoreCompileInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\refint\ex_2.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ex_2.genruntimeconfig.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_2\obj\Debug\net7.0\ref\ex_2.dll
