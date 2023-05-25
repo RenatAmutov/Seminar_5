@@ -1,0 +1,15 @@
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.csproj.AssemblyReference.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.AssemblyInfoInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.AssemblyInfo.cs
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.csproj.CoreCompileInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\bin\Debug\net7.0\ex_3.exe
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\bin\Debug\net7.0\ex_3.deps.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\bin\Debug\net7.0\ex_3.runtimeconfig.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\bin\Debug\net7.0\ex_3.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\bin\Debug\net7.0\ex_3.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\refint\ex_3.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ex_3.genruntimeconfig.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_5\ex_3\obj\Debug\net7.0\ref\ex_3.dll
