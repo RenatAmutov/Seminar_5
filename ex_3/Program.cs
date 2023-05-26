@@ -27,17 +27,18 @@ void PrintArray(int[] arr)
 int  LastMinusFirst(int[] arr)
 {
     int count = 0;
-    int first = arr[0];
-    int last = arr[arr.Length];
-    if(last > first){
-        count = last - first;
+    int min = arr[0], max = arr[0];
+    for (int i = 0; i < arr.Length; i++){
+       if(min > arr[i]){
+        min = arr[i];
+       } 
+       if(max < arr[i]){
+        max = arr[i];
+       }
+       count = max - min; 
     }
-    else if(last < first){
-        count = first - last;
-    }
-    else{
-        count=0;
-    }
+    Console.WriteLine($"Минимальное число в массиве - {min}"); 
+    Console.WriteLine($"Максимальное число в массиве - {max}"); 
     return count;
 }
 Console.Write("Введите размер массива: ");
@@ -51,5 +52,4 @@ CreateArray(array, min, max);
 Console.WriteLine("Получившийся массив");
 PrintArray(array);
 Console.WriteLine();
-Console.Write("Сумма всех не четных позиций в масиве равна : ");
-Console.Write(LastMinusFirst(array));
+Console.Write($"Разница между большим и меньшим числов в массиве: {LastMinusFirst(array)}");
